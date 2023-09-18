@@ -1,0 +1,3 @@
+C:/Users/posad/CLionProjects/ViajeEnElTiempo/cmake-build-debug/CMakeFiles/ViajeEnElTiempo.dir
+C:/Users/posad/CLionProjects/ViajeEnElTiempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/posad/CLionProjects/ViajeEnElTiempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
